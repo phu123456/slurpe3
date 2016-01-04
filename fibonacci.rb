@@ -7,4 +7,6 @@ def fibonacci(n)
   @memo[n]
 end
 
+# add smth
+
 puts fibonacci(15)
